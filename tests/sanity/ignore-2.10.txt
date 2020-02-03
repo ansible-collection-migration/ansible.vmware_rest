@@ -1,0 +1,10 @@
+plugins/modules/vmware_appliance_access_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_appliance_access_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_appliance_health_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_appliance_health_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_cis_category_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_cis_category_info.py validate-modules:parameter-list-no-elements
+plugins/modules/vmware_core_info.py validate-modules:doc-required-mismatch
+plugins/modules/vmware_core_info.py validate-modules:parameter-list-no-elements
+plugins/doc_fragments/vmware_rest_client.py future-import-boilerplate
+plugins/doc_fragments/vmware_rest_client.py metaclass-boilerplate

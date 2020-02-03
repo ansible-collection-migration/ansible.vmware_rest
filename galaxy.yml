@@ -1,0 +1,14 @@
+namespace: ansible
+name: vmware_rest
+version: 1.0.0
+readme: README.md
+authors: null
+description: null
+license: null
+license_file: null
+tags: null
+dependencies: {}
+repository: git@github.com:ansible-collection-migration/ansible.vmware_rest.git
+documentation: https://github.com/ansible-collection-migration/ansible.vmware_rest/tree/master/docs
+homepage: https://github.com/ansible-collection-migration/ansible.vmware_rest
+issues: https://github.com/ansible-collection-migration/ansible.vmware_rest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
